@@ -1,0 +1,317 @@
+.rect{
+    position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+}
+.arrow{
+    position: absolute;
+left: 4.67%;
+right: 16.67%;
+top: 579.67%;
+bottom: 16.67%;
+
+background: #e2dcdc;
+}
+.employe{
+    position: absolute;
+width: 196px;
+height: 29px;
+left: 113px;
+top: 85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #1b1818;
+}
+
+.button1{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 36px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 134px;
+    height: 39px;
+    left: 1366px;
+    top: 80px;
+    
+    background: #FFFFFF;
+    border-radius: 7px;
+}
+.button2{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px 6px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 175px;
+    height: 39px;
+    left: 1515px;
+    top: 85px;
+    
+    background: #FFFFFF;
+  
+    border-radius: 7px;
+}
+.arrow1{
+    position: absolute;
+width: 74px;
+height: 74px;
+left: 79px;
+top: 110px;
+
+}
+
+.employe1{
+    position: absolute;
+width: 188px;
+height: 24px;
+left: 169px;
+top: 113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.content{
+    position: absolute;
+width: 123px;
+height: 19px;
+left: 171px;
+top: 142px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+}
+.round1{
+    position: absolute;
+width: 10px;
+height: 10px;
+left: 280px;
+top: 145px;
+border-radius: 7px;
+background: #2E8760;
+}
+.round2{
+    position: absolute;
+width: 42px;
+height: 17px;
+left: 295px;
+top: 142px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #2E8760;
+
+}
+.round3{
+    position: absolute;
+width: 238px;
+height: 17px;
+left: 169px;
+top: 170px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #2E8760;
+
+}
+.dop{
+    position: absolute;
+left: 40.33%;
+right: 8.33%;
+top: 800.33%;
+bottom: 8.33%;
+
+background: #f8ecec;
+}
+
+.round5{
+    position: absolute;
+width: 149px;
+height: 19px;
+left: 726px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+
+}
+
+.dop1{
+    
+position: absolute;
+left: 40.38%;
+right: 6.25%;
+top: 1000.62%;
+bottom: 21.88%;
+}
+.round7{
+    position: absolute;
+width: 105px;
+height: 19px;
+left: 716px;
+top: 230px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+}
+.dop3{
+    position: absolute;
+width: 105px;
+height: 19px;
+left: 16px;
+top:-75px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+}
+.dop4{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 874px;
+top: 146px;
+
+}
+.dop5{
+    position: absolute;
+width: 117px;
+height: 19px;
+left: 911px;
+top: 154px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8A8A;
+}
+.rectangle{
+    position: absolute;
+    width: 367px;
+    height: 143px;
+    left: 1278px;
+    top: 129px;
+    
+    background: #F2EDFD;
+    border-radius: 5px;
+}
+.eff{
+    position: absolute;
+width: 189px;
+height: 29px;
+left: 20px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+/* identical to box height */
+
+
+color: #050505;
+
+}
+.percntage{
+    position: absolute;
+width: 102px;
+height: 58px;
+left: 23px;
+top: 59px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #8147E7;
+
+
+}
+.percntage1{
+    position: absolute;
+width: 84px;
+height: 29px;
+left: 272px;
+top: 62px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+
+color: #3EDC4E;
+
+} 

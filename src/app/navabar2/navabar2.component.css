@@ -1,0 +1,74 @@
+.navbar1{
+    position: absolute;
+width: 157px;
+height: 38px;
+left: 94px;
+top: -820px;
+color: #9A9A9A;
+background: #F1F1F1;
+border-radius: 5px;
+text-decoration: none;
+}
+.navbar2{
+    position: absolute;
+width: 131px;
+height: 19px;
+left: 276px;
+top: -815px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+text-decoration: none;
+color: #6B6B6B;
+
+}
+.navbar3{
+    position: absolute;
+width: 107px;
+height: 19px;
+left: 458px;
+top: -815px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+
+color: #E2A925;
+
+}
+.navbar4{
+    position: absolute;
+width: 118px;
+height: 19px;
+left: 640px;
+top: -815px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+text-decoration: none;
+color: #55DE64;
+}
+.navbar5{
+    position: absolute;
+width: 99px;
+height: 19px;
+left: 820px;
+top: -816px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+text-decoration: none;
+color: #F93333;
+
+}

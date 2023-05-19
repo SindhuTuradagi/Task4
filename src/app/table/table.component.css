@@ -1,0 +1,125 @@
+.data{
+    position: absolute;
+width: 1354px;
+height: 689px;
+left: 70px;
+top: 470px;
+/* overflow-y: scroll; */
+text-decoration: none;
+background-color: aliceblue;
+color: aliceblue;
+} .intro {
+    height: 50%;
+  }
+  
+  table td,
+  table th {
+    /* text-overflow: ellipsis; */
+    white-space: nowrap;
+    /* overflow: hidden; */
+    width:67px;
+  }
+  
+  .card {
+    /* border-radius: .5rem; */
+  }
+.dgm1{
+    position: absolute;
+width: 6px;
+height: 56px;
+left: 1px;
+top: 2px;
+
+background: #6B6B6B;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm2{
+    position: absolute;
+width: 6px;
+height: 45px;
+left: 1px;
+top: 60px;
+
+background: #E2A925;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm3{
+    position: absolute;
+width: 6px;
+height: 46px;
+left: 1px;
+top: 106px;
+
+background: #60E06E;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm4{
+    position: absolute;
+width: 6px;
+height: 50px;
+left: 1px;
+top: 145px;
+
+background: #F93333;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm5{
+    position: absolute;
+width: 6px;
+height: 46px;
+left: 1px;
+top: 188px;
+
+background: #6B6B6B;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm6{
+    position: absolute;
+width: 6px;
+height: 46px;
+left: 1px;
+top: 236px;
+
+background: #6B6B6B;
+border-radius: 3.5px 0px 0px 3.5px; 
+}
+.dgm7{
+    position: absolute;
+    width: 6px;
+    height: 46px;
+    left: 1px;
+    top: 280px;
+    
+    background: #e0e060;
+    border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm8{
+    position: absolute;
+width: 6px;
+height: 46px;
+left: 1px;
+top: 330px;
+
+background: #33f940;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm9{
+    position: absolute;
+width: 6px;
+height: 56px;
+left: 1px;
+top: 377px;
+
+background: #6B6B6B;
+border-radius: 3.5px 0px 0px 3.5px;
+}
+.dgm10{
+    position: absolute;
+width: 6px;
+height: 46px;
+left: 1px;
+top: 428px;
+
+background: #E2A925;
+border-radius: 3.5px 0px 0px 3.5px;
+}

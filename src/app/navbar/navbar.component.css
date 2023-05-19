@@ -1,0 +1,53 @@
+.navbar-brand1{
+    position: absolute;
+width: 46px;
+height: 19px;
+left: 95px;
+top: -835px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+
+color: #3D70F5;
+
+}
+.navbar-brand2{
+    position: absolute;
+    left: 12%;
+    right: 0%;
+    top: -2087%;
+    bottom: 0%;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    
+    color: #9A9A9A;
+    
+}
+.navbar-brand3{
+    position: absolute;
+    left: 17%;
+    right: 0%;
+    top: -2087%;
+    bottom: 0%;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    
+    color: #9A9A9A;
+    
+}
+.navbar-brand7{
+    text-decoration: none;
+    color: #9A9A9A;
+  
+}
